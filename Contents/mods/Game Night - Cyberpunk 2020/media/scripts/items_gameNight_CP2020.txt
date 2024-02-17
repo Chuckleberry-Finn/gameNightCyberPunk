@@ -8,7 +8,7 @@ module Base
 		DisplayName = Character Sheet,
 		Icon = OutOfPlayTextures\characterSheet,
 		Map = paperAPI_CharacterSheet,
-		WorldStaticModel = CharacterSheet,
+		WorldStaticModel = CyberpunkCharacterSheet,
 		paperAPI_paperPageMax = 2,
     }
 
