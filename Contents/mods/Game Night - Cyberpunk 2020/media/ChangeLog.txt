@@ -2,3 +2,7 @@
 - Chuck's art
 - Minor tweaks
 [ ------ ]
+
+[ 2-17-24 - hotfix1 ]
+- Fix paper model issue
+[ ------ ]
