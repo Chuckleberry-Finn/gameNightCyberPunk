@@ -2,7 +2,7 @@ version=1
 id=3161992240
 title=Game Night: Cyberpunk 2020
 description=[h2]Add-On for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3058279917]GameNight[/url].[/h2]
-description=[h3]Includes a box set of Cyberpunk 2020, with interactive character sheets, to play with your choombas.[/h3]
+description=[h3]Includes dice and interactive character sheets to play with your choombas.[/h3]
 description=Recommended: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2804531012]Draw On The Map[/url] to draw on included papers.
 description=
 description=[h3][i][b]Now go, chip' in, edgerunner![/b][/i][/h3]
