@@ -1,0 +1,5 @@
+name=Game Night - Cyberpunk2020
+id=gamenight_cyberpunk2020
+description=
+poster=poster.png
+require=gamenight,ZomboidPaperAPI

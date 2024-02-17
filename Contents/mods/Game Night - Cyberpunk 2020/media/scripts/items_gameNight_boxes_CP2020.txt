@@ -1,0 +1,14 @@
+module Base
+{
+    item CP2020Box
+        {
+            DisplayCategory = GameBox, WeightReduction = 20, Weight = 0.1, Type = Container, Capacity = 2,
+            DisplayName = Cyberpunk 2020 Box, Icon = Boxes/CP2020Box, WorldStaticModel = CP2020Box,
+        }
+
+    item CP2020Box_sealed
+        {
+            DisplayCategory = GameBox, WeightReduction = 20, Weight = 0.1, Type = Normal, Capacity = 2,
+            DisplayName = Cyberpunk 2020 (Sealed), Icon = Boxes/CP2020Box, WorldStaticModel = CP2020Box,
+        }
+}

@@ -1,0 +1,7 @@
+module Base
+{
+
+    recipe Unseal Box { CP2020Box_sealed, Result:CP2020Box, CanBeDoneFromFloor:true, OnCreate:Recipe.GameNight.Unbox, Time:50.0, }
+
+
+}
