@@ -7,21 +7,11 @@ description=Recommended: [url=https://steamcommunity.com/sharedfiles/filedetails
 description=
 description=[h3][i]Now go, chip' in, edgerunner![/i][/h3]
 description=
-description=[img]https://raw.githubusercontent.com/Chuckleberry-Finn/chuckImages/main/PZmodCommBanner2.png[/img][/url]
-description=
-description=[url=https://raw.githubusercontent.com/Chuckleberry-Finn/chuckImages/main/bingo.png][img]https://raw.githubusercontent.com/Chuckleberry-Finn/chuckImages/main/readThrough.png[/img][/url]
-description=[img]https://raw.githubusercontent.com/Chuckleberry-Finn/chuckImages/main/noModPacks.png[/img]
-description=[img]https://raw.githubusercontent.com/Chuckleberry-Finn/chuckImages/main/bugHunt.png[/img]
-description=[quote][b]Windows:[/b] %userprofile%\Zomboid\console.txt[/quote]
-description=[quote][b]Mac/Linux:[/b] $User\Zomboid\console.txt[/quote]
-description=Upload this file [b]in entirety[/b] to [url=https://github.com/Chuckleberry-Finn/gameNightDND]Github[/url] as an issue.
-description=Share the link in a comment below if it is urgent.
-description=
-description=[url=https://github.com/Chuckleberry-Finn/game-night][img]https://raw.githubusercontent.com/Chuckleberry-Finn/chuckImages/main/steamNoGithubYes.png[/img][/url]
+description=[url=https://discord.gg/SReMnbV4V7][img]https://raw.githubusercontent.com/Chuckleberry-Finn/chuckImages/main/PZmodCommBanner2.png[/img][/url]
 description=
 description=
 description=[i][b]Cyberpunk[/b] is a registered trademark of RTalsorian games. RTalsorian games All rights reserved.[/i]
 description=
 description=[h3]Copyright 2024 KpyrJIbIu and Chuckleberry Finn. This item is not authorized for posting on Steam, except under the Steam account(s) named KpyrJIbIu and Chuckleberry Finn.[/h3]
-tags=Build 41
+tags=Build 41;Multiplayer;Pop Culture;Silly/Fun
 visibility=public
