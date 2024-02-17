@@ -1,8 +1,9 @@
-[ 2-17-24 ]
+[ 2/17/24 ]
 - Chuck's art
 - Minor tweaks
 [ ------ ]
 
-[ 2-17-24 - hotfix1 ]
-- Fix paper model issue
+[ 2/17/24 - hotfix1 ]
+- Moved drawing paper to ZomboidPaperAPI + fixes UI/model conflict.
+- Moved dice into main game-night mod.
 [ ------ ]

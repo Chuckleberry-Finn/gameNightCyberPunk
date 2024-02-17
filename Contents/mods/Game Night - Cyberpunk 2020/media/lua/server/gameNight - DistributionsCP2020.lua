@@ -7,7 +7,7 @@ table.insert(gameNightDistro.proceduralDistGameNight.itemsToAdd,"CP2020Box")
 gameNightDistro.gameNightBoxes["CP2020Box"] = {
     rolls = 1,
     items = {
-        "Dice6", 9999, "Dice6", 9999, "Dice6", 9999, "Dice6", 9999, "Dice10", 9999,"Dice10", 9999,
+        "CyberDice6", 9999, "CyberDice6", 9999, "CyberDice6", 9999, "CyberDice6", 9999, "CyberDice10", 9999, "CyberDice10", 9999,
 
         "Pencil", 9999, "Pencil", 9999, "Pencil", 9999, "Eraser", 9999, "Eraser", 9999, "Eraser", 9999,
         
