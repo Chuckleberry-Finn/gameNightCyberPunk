@@ -5,7 +5,7 @@ description=[h2]Add-On for [url=https://steamcommunity.com/sharedfiles/filedetai
 description=[h3]Includes a box set of Cyberpunk 2020, with interactive character sheets, to play with your choombas.[/h3]
 description=Recommended: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2804531012]Draw On The Map[/url] to draw on included papers.
 description=
-description=[h3][i]Now go, chip' in, edgerunner![/i][/h3]
+description=[h3][i][b]Now go, chip' in, edgerunner![/b][/i][/h3]
 description=
 description=[url=https://discord.gg/SReMnbV4V7][img]https://raw.githubusercontent.com/Chuckleberry-Finn/chuckImages/main/PZmodCommBanner2.png[/img][/url]
 description=
