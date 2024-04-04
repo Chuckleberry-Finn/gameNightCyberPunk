@@ -7,3 +7,7 @@
 - Moved drawing paper to ZomboidPaperAPI + fixes UI/model conflict.
 - Moved dice into main game-night mod.
 [ ------ ]
+
+[ 4/4/24 - TCG+Volumetric ]
+- Disable rotation of dice as per TCG+Volumetric Update.
+[ ------ ]
