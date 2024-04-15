@@ -8,6 +8,6 @@
 - Moved dice into main game-night mod.
 [ ------ ]
 
-[ 4/4/24 - TCG+Volumetric ]
+[ 4/14/24 - TCG+Volumetric ]
 - Disable rotation of dice as per TCG+Volumetric Update.
 [ ------ ]
