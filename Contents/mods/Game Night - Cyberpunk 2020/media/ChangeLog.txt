@@ -12,6 +12,6 @@
 - Disable rotation of dice as per TCG+Volumetric Update.
 [ ------ ]
 
-[ 5/18/24 ]
+[ 5/25/24 ]
 - Tweaks and underlying updates in preparation for new Add-On.
 [ ------ ]
