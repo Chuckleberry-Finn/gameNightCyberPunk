@@ -1,0 +1,24 @@
+module Base
+{
+
+    item CP2020CharacterSheet {
+		DisplayCategory = GamePiece,
+		Weight = 0.1,
+		Type = Map,
+		DisplayName = Character Sheet,
+		Icon = OutOfPlayTextures\characterSheet,
+		Map = paperAPI_CharacterSheet,
+		WorldStaticModel = CyberpunkCharacterSheet,
+		paperAPI_paperPageMax = 2,
+    }
+
+    item CyberDice6 {
+        DisplayCategory = GamePiece, Weight = 0.01, Type = Normal,
+        DisplayName = D6, Icon = OutOfPlayTextures/dice/CyberDice6, WorldStaticModel = CyberDice,
+    }
+
+    item CyberDice10 {
+        DisplayCategory = GamePiece, Weight = 0.01, Type = Normal,
+        DisplayName = D10, Icon = OutOfPlayTextures/dice/CyberDice10, WorldStaticModel = CyberDice,
+    }
+}

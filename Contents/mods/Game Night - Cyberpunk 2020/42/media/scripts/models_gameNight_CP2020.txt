@@ -1,0 +1,6 @@
+module Base
+{
+	model CyberpunkCharacterSheet { mesh = WorldItems/SheetOfPaper, texture = zomboidPaper/CP2020CharacterSheet1, scale = 0.02, }
+	model CP2020Box { mesh = WorldItems/cardpack, texture = Item_Boxes/CP2020Box_ground, scale = 0.06, }
+    model CyberDice { mesh = WorldItems/gameNightCube, texture = modelTextures/cyberDice, scale = 0.0015, }
+}
