@@ -14,5 +14,5 @@ description=
 description=[i][b]Cyberpunk[/b] is a registered trademark of RTalsorian games. RTalsorian games All rights reserved.[/i]
 description=
 description=[h3]Copyright 2024 KpyrJIbIu and Chuckleberry Finn. This item is not authorized for posting on Steam, except under the Steam account(s) named KpyrJIbIu and Chuckleberry Finn.[/h3]
-tags=Build 41;Multiplayer;Pop Culture;Silly/Fun
+tags=Build 41;Build 42;Multiplayer;Pop Culture;Silly/Fun
 visibility=public
